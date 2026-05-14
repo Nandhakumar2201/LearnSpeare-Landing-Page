@@ -1,0 +1,6 @@
+*.ts
+*.tsx
+tsconfig.json
+tsconfig.*.json
+**/tsconfig.json
+**/tsconfig.*.json
